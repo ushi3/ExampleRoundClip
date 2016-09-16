@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleRoundClip</string>
+
+    <string name="format_text">Corner %ddp</string>
+</resources>
